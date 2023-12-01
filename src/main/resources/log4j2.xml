@@ -23,7 +23,7 @@
             <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
         </File>
         <SMTP name="Example" subject="Error Error Error Log New New" to="maryna.osypova.oi.2022@lpnu.ua" from="gogolbohdan2005@gmail.com"
-              smtpHost="smtp.gmail.com" smtpPort="465" smtpUsername="gogolbohdan2005@gmail.com" smtpPassword="your temporary app password" smtpProtocol="smtps"
+              smtpHost="smtp.gmail.com" smtpPort="465" smtpUsername="gogolbohdan2005@gmail.com" smtpPassword="ybol zfim ilqx rcct" smtpProtocol="smtps"
               bufferSize="5">
             <LevelRangeFilter maxLevel="ERROR"/>
             <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss} %-5p %c:%L - %m%n" />
