@@ -1,0 +1,67 @@
+2023-12-01 02:50:01.947 [main] TRACE org.example.Main - We've just greeted the user!
+2023-12-01 02:50:01.949 [main] DEBUG org.example.Main - We've just greeted the user!
+2023-12-01 02:50:01.950 [main] INFO  org.example.Main - We've just greeted the user!
+2023-12-01 02:50:05.159 [main] TRACE org.example.Main - We've just greeted the user!
+2023-12-01 02:50:18.744 [main] INFO  org.example.Main - We've just greeted the user!
+2023-12-01 02:50:18.745 [main] WARN  org.example.Main - We've just greeted the user!
+2023-12-01 02:50:18.745 [main] ERROR org.example.Main - We've just greeted the user!
+2023-12-01 02:50:20.816 [main] FATAL org.example.Main - We've just greeted the user!
+2023-12-01 02:50:37.121 [main] INFO  org.example.Main - We've just greeted the user!
+2023-12-01 02:50:37.121 [main] WARN  org.example.Main - We've just greeted the user!
+2023-12-01 02:50:37.122 [main] ERROR org.example.Main - We've just greeted the user!
+2023-12-01 02:50:39.102 [main] FATAL org.example.Main - We've just greeted the user!
+2023-12-01 02:51:05.255 [main] INFO  org.example.Main - We've just greeted the user!
+2023-12-01 02:51:05.256 [main] WARN  org.example.Main - We've just greeted the user!
+2023-12-01 02:51:05.256 [main] ERROR org.example.Main - We've just greeted the user!
+2023-12-01 02:51:05.256 [main] FATAL org.example.Main - We've just greeted the user!
+2023-12-01 02:53:27.654 [main] INFO  org.example.Main - We've just greeted the user!
+2023-12-01 02:53:27.654 [main] WARN  org.example.Main - We've just greeted the user!
+2023-12-01 02:53:27.654 [main] ERROR org.example.Main - We've just greeted the user!
+2023-12-01 02:53:27.655 [main] FATAL org.example.Main - We've just greeted the user!
+2023-12-01 02:54:14.233 [main] INFO  org.example.Main - We've just greeted the user!
+2023-12-01 02:54:14.233 [main] WARN  org.example.Main - We've just greeted the user!
+2023-12-01 02:54:14.234 [main] ERROR org.example.Main - We've just greeted the user!
+2023-12-01 02:54:14.234 [main] FATAL org.example.Main - We've just greeted the user!
+2023-12-01 02:54:32.522 [main] INFO  org.example.Main - We've just greeted the user!
+2023-12-01 02:54:32.522 [main] WARN  org.example.Main - We've just greeted the user!
+2023-12-01 02:54:32.523 [main] ERROR org.example.Main - We've just greeted the user!
+2023-12-01 02:54:32.523 [main] FATAL org.example.Main - We've just greeted the user!
+2023-12-01 02:54:57.220 [main] INFO  org.example.Main - We've just greeted the user!
+2023-12-01 02:54:57.220 [main] WARN  org.example.Main - We've just greeted the user!
+2023-12-01 02:54:57.221 [main] ERROR org.example.Main - We've just greeted the user!
+2023-12-01 02:54:57.221 [main] FATAL org.example.Main - We've just greeted the user!
+2023-12-01 02:56:29.043 [main] INFO  org.example.Main - We've just greeted the user!
+2023-12-01 02:56:29.043 [main] WARN  org.example.Main - We've just greeted the user!
+2023-12-01 02:56:29.066 [main] ERROR org.example.Main - We've just greeted the user!
+2023-12-01 02:56:29.066 [main] FATAL org.example.Main - We've just greeted the user!
+2023-12-01 02:56:58.699 [main] INFO  org.example.Main - We've just greeted the user!
+2023-12-01 02:56:58.700 [main] WARN  org.example.Main - We've just greeted the user!
+2023-12-01 02:56:58.717 [main] ERROR org.example.Main - We've just greeted the user!
+2023-12-01 02:56:58.718 [main] FATAL org.example.Main - We've just greeted the user!
+2023-12-01 02:57:12.143 [main] INFO  org.example.Main - We've just greeted the user!
+2023-12-01 02:57:12.144 [main] WARN  org.example.Main - We've just greeted the user!
+2023-12-01 02:57:12.167 [main] ERROR org.example.Main - We've just greeted the user!
+2023-12-01 02:57:12.167 [main] FATAL org.example.Main - We've just greeted the user!
+2023-12-01 02:57:28.164 [main] INFO  org.example.Main - We've just greeted the user!
+2023-12-01 02:57:28.164 [main] WARN  org.example.Main - We've just greeted the user!
+2023-12-01 02:57:28.165 [main] ERROR org.example.Main - We've just greeted the user!
+2023-12-01 02:57:28.165 [main] FATAL org.example.Main - We've just greeted the user!
+2023-12-01 12:24:09.931 [main] INFO  org.example.Main - Logger trace level info
+2023-12-01 12:24:09.931 [main] WARN  org.example.Main - Logger trace level info
+2023-12-01 12:24:09.931 [main] ERROR org.example.Main - Logger trace level info
+2023-12-01 12:26:42.694 [main] INFO  org.example.Main - Logger info level info
+2023-12-01 12:26:42.694 [main] INFO  org.example.Main - Logger info level info
+2023-12-01 12:26:42.694 [main] WARN  org.example.Main - Logger warn level info
+2023-12-01 12:26:42.695 [main] ERROR org.example.Main - Logger error level info
+2023-12-01 12:27:17.398 [main] INFO  org.example.Main - Logger info level info
+2023-12-01 12:27:17.398 [main] INFO  org.example.Main - Logger info level info
+2023-12-01 12:27:17.398 [main] WARN  org.example.Main - Logger warn level info
+2023-12-01 12:27:17.399 [main] ERROR org.example.Main - Logger error level info
+2023-12-01 12:28:25.764 [main] INFO  org.example.Main - Logger message info level info
+2023-12-01 12:28:25.764 [main] INFO  org.example.Main - Logger message info level info
+2023-12-01 12:28:25.764 [main] WARN  org.example.Main - Logger message warn level info
+2023-12-01 12:28:25.764 [main] ERROR org.example.Main - Logger message error level info
+2023-12-01 12:28:51.229 [main] INFO  org.example.Main - Logger message info level info
+2023-12-01 12:28:51.230 [main] INFO  org.example.Main - Logger message info level info
+2023-12-01 12:28:51.230 [main] WARN  org.example.Main - Logger message warn level info
+2023-12-01 12:28:51.230 [main] ERROR org.example.Main - Logger message error level info
